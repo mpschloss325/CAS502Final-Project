@@ -1,0 +1,10 @@
+# 📜 References & Citation
+
+## 📌 How to Cite This Project
+If you use this project, please cite it as:
+
+**[Pfirman Schlosser, M]. (2025). CAS502 Final Project: Democracy & Polycrisis Data Exploration. GitHub Repository.**  
+Available at: https://github.com/mpschloss325/CAS502Final-Project
+
+---
+**Plan to add a link to the Working Group, but wanted to ask permission before!
